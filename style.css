@@ -1,0 +1,25 @@
+h1.char{
+    color:red;
+    border-style: groove;
+    background-color:aqua;
+    text-align: center;
+}
+p.one{
+    color:darkblue;
+    text-align: center;
+    background-color: aqua;
+    font-size: large;
+}
+ul.a{
+    list-style-type: circle;
+    font-size:large;
+}
+ul.b{
+    list-style-type:square;
+    font-size:large;
+}
+a.min{
+    text-decoration: none;
+    color:red;
+    font-size:large;
+}
